@@ -1,0 +1,23 @@
+/* GENERAL */
+
+.display-inline{
+	display: inline !important;
+}
+
+.display-inline-block{
+	display: inline-block !important;
+}
+
+.black{
+	color: black !important;
+}
+
+.darkred{
+	color: darkred !important;
+}
+
+.hover-darkred:hover{
+	color: darkred !important;
+}
+
+/* FIN GENERAL */

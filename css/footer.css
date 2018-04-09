@@ -1,0 +1,9 @@
+/* css du footer */
+
+div#list-news a:hover{
+	color: darkred !important;
+}
+
+div#link-list a:hover{
+	color: darkred !important;
+}

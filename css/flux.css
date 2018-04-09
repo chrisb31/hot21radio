@@ -1,0 +1,10 @@
+/* Flux */
+
+#flux{
+	margin-top: 2rem;
+	overflow: auto;
+	height: 1800px;
+	overflow-x: hidden;
+	border: 1px solid;
+	background-color: white;
+}

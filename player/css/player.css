@@ -1,0 +1,45 @@
+/* css du player audio */
+
+body{
+	background: url('../../img/wall-background.jpg') !important;
+	overflow: hidden;
+}
+
+#player-card{
+	margin: 1rem;
+}
+
+#news-card div#actu article{
+	height: 350px;
+}
+
+#player-card div.card, #news-card div.card{
+	width: 400px;
+}
+
+#news-card{
+	width: 100%;
+}
+
+#news-card #actu article{
+	width: 100%;
+}
+
+#news-card #actu img{
+	max-height: 230px;
+	max-width: 100%;
+	margin: auto;
+}
+
+#player-card #extra-flashradio{
+	padding: 0;
+}
+
+#player-card div.ui.fluid.card{
+	padding: 0.5rem;
+}
+
+#cover{
+	border-radius: 5%;
+	border-style: double;
+}

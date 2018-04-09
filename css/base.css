@@ -1,0 +1,99 @@
+/* GENERAL */
+
+/*body a{
+	color: darkred !important;
+}*/
+
+.base-font-size{
+	font-size: 1.2rem;
+}
+
+button.android{
+	background-color: #6ab344 !important;
+}
+
+button.apple{
+	background-color: #a3a5a3 !important;
+}
+
+button.android i, button.apple i{
+	color: white;
+}
+
+.darkred{
+	color: darkred !important;
+}
+
+.white{
+	color: white !important;
+}
+
+.inline-block{
+	display: inline-block !important;
+}
+
+.lightgray-background{
+	background: lightgray !important;
+}
+
+.gris-clair-background{
+	background: #f2f2f2 !important;
+}
+
+.darkred-background{
+	background-color: darkred !important;
+}
+
+.black-background{
+	background-color: black !important;
+}
+
+.tan-background{
+	background-color: tan !important;
+}
+
+.display-inline{
+	display: inline;
+}
+
+.hover-darkred:hover{
+	color: darkred !important;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.margin-top-1rem{
+	margin-top: 1rem !important;
+}
+
+.margin-auto{
+	margin: auto !important;
+}
+
+.margin-5-20{
+	margin: 5px 20px !important;
+}
+
+.padding-5px{
+	padding: 5px !important;
+}
+
+.padding-0-1-5rem{
+	padding: 0 1.5rem !important;
+}
+
+.error-message{
+	color: red !important;
+}
+
+.float-right{
+	float: right;
+}
+
+.clear-both{
+	clear: both;
+}
+
+/* FIN GENERAL */

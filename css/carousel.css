@@ -1,0 +1,9 @@
+/* Carousel */
+
+div.slider img{
+	width: 100%;
+}
+
+section#carousel .bx-viewport{
+	height: 1035px !important;
+}

@@ -1,0 +1,28 @@
+/* Top */
+
+/* or */
+.ribbon1{
+	background: #CFB53B; 
+}
+/* argent */
+.ribbon2{
+	background: #E6E8FA; 
+}
+/* bronze */
+.ribbon3{
+	background: #A67D3D; 
+}
+
+#top-recent table h2{
+	display: inline-block;
+}
+
+#ad-top{
+	margin-top: 2rem;
+}
+
+@media screen and (min-width: 992px) and (max-width: 1660px) {
+  #right-top, #left-top {
+    width: 100% !important;
+  }
+}

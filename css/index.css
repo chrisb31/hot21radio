@@ -1,0 +1,8 @@
+/************************** CSS de la page index ***************************/
+
+body{
+	background: url('../img/new-york-background.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+

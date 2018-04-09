@@ -1,0 +1,13 @@
+/* CSS des news */
+
+#articles article a, #news-0 a h2, #news-1 a h2, #news-2 a h2, #news-3 a h2, #news-4 a h2, #news-5 a h2, #news-6 a h2 {
+	color: black !important;
+}
+
+#articles article:hover{
+	background-color: lightgrey !important;
+}
+
+#articles article p{
+	word-wrap: break-word;
+}

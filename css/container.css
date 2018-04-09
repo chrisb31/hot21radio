@@ -1,0 +1,22 @@
+/* Container */
+
+#container{
+	width: 75%;
+	margin: auto;
+	margin-top: 6rem;
+	padding: .5rem 0;
+	background: rgb(54, 25, 25); /* Fall-back for browsers that don't support rgba */
+    background: rgba(54, 25, 25, .5);
+}
+
+#container #carousel, #top, #recent-request, #show, #news{
+	border: 1px solid;
+	margin: 1rem;
+	background-color: white;
+}
+
+@media screen and (max-width: 1200px) {
+  #container {
+    margin-top: 11rem !important;
+  }
+}
